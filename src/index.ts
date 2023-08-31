@@ -56,4 +56,3 @@ class PrizePicks {
 }
 
 export default PrizePicks;
-
